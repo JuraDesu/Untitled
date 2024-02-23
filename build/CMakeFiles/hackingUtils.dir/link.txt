@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/hackingUtils.dir/src/main.c.o CMakeFiles/hackingUtils.dir/src/init_ncurses.c.o CMakeFiles/hackingUtils.dir/src/ncurses_window.c.o -o hackingUtils  -lcurses -lform 
