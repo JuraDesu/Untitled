@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/jura_desu/vychytavky_jury_hrusky/bin/hratky_s_certem"
-  "/home/jura_desu/vychytavky_jury_hrusky/bin/hratky_s_certem.pdb"
+  "/home/jura_desu/.coding/C/Untitled/bin/hratky_s_certem"
+  "/home/jura_desu/.coding/C/Untitled/bin/hratky_s_certem.pdb"
   "CMakeFiles/hratky_s_certem.dir/src/buttons.c.o"
   "CMakeFiles/hratky_s_certem.dir/src/buttons.c.o.d"
   "CMakeFiles/hratky_s_certem.dir/src/init.c.o"

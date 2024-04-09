@@ -1,7 +1,7 @@
-/home/jura_desu/vychytavky_jury_hrusky/build/CMakeFiles/hratky_s_certem.dir
-/home/jura_desu/vychytavky_jury_hrusky/build/CMakeFiles/edit_cache.dir
-/home/jura_desu/vychytavky_jury_hrusky/build/CMakeFiles/rebuild_cache.dir
-/home/jura_desu/vychytavky_jury_hrusky/build/CMakeFiles/list_install_components.dir
-/home/jura_desu/vychytavky_jury_hrusky/build/CMakeFiles/install.dir
-/home/jura_desu/vychytavky_jury_hrusky/build/CMakeFiles/install/local.dir
-/home/jura_desu/vychytavky_jury_hrusky/build/CMakeFiles/install/strip.dir
+/home/jura_desu/.coding/C/Untitled/build/CMakeFiles/hratky_s_certem.dir
+/home/jura_desu/.coding/C/Untitled/build/CMakeFiles/edit_cache.dir
+/home/jura_desu/.coding/C/Untitled/build/CMakeFiles/rebuild_cache.dir
+/home/jura_desu/.coding/C/Untitled/build/CMakeFiles/list_install_components.dir
+/home/jura_desu/.coding/C/Untitled/build/CMakeFiles/install.dir
+/home/jura_desu/.coding/C/Untitled/build/CMakeFiles/install/local.dir
+/home/jura_desu/.coding/C/Untitled/build/CMakeFiles/install/strip.dir

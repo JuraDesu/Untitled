@@ -1,4 +1,4 @@
-# Install script for directory: /home/jura_desu/vychytavky_jury_hrusky
+# Install script for directory: /home/jura_desu/.coding/C/Untitled
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -57,7 +57,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/usr/bin" TYPE EXECUTABLE FILES "/home/jura_desu/vychytavky_jury_hrusky/bin/hratky_s_certem")
+  file(INSTALL DESTINATION "/usr/bin" TYPE EXECUTABLE FILES "/home/jura_desu/.coding/C/Untitled/bin/hratky_s_certem")
   if(EXISTS "$ENV{DESTDIR}/usr/bin/hratky_s_certem" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}/usr/bin/hratky_s_certem")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -67,7 +67,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/jura_desu/vychytavky_jury_hrusky/build/CMakeFiles/hratky_s_certem.dir/install-cxx-module-bmi-noconfig.cmake" OPTIONAL)
+  include("/home/jura_desu/.coding/C/Untitled/build/CMakeFiles/hratky_s_certem.dir/install-cxx-module-bmi-noconfig.cmake" OPTIONAL)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -78,5 +78,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/jura_desu/vychytavky_jury_hrusky/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/jura_desu/.coding/C/Untitled/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

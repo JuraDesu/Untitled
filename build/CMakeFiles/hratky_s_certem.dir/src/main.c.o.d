@@ -1,7 +1,6 @@
 CMakeFiles/hratky_s_certem.dir/src/main.c.o: \
- /home/jura_desu/vychytavky_jury_hrusky/src/main.c \
- /usr/include/stdc-predef.h \
- /home/jura_desu/vychytavky_jury_hrusky/src/headers/init.h \
+ /home/jura_desu/.coding/C/Untitled/src/main.c /usr/include/stdc-predef.h \
+ /home/jura_desu/.coding/C/Untitled/src/headers/init.h \
  /usr/include/curses.h /usr/include/ncurses_dll.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/libc-header-start.h \
@@ -12,7 +11,7 @@ CMakeFiles/hratky_s_certem.dir/src/main.c.o: \
  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
  /usr/include/bits/time64.h /usr/include/bits/wchar.h \
  /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
- /usr/include/stdio.h \
+ /usr/include/bits/stdint-least.h /usr/include/stdio.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
  /usr/include/bits/types/__fpos_t.h /usr/include/bits/types/__mbstate_t.h \
@@ -23,6 +22,6 @@ CMakeFiles/hratky_s_certem.dir/src/main.c.o: \
  /usr/include/bits/floatn-common.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdbool.h \
  /usr/include/unctrl.h /usr/include/curses.h \
- /home/jura_desu/vychytavky_jury_hrusky/src/headers/window.h \
- /home/jura_desu/vychytavky_jury_hrusky/src/headers/window.h \
- /home/jura_desu/vychytavky_jury_hrusky/src/headers/buttons.h
+ /home/jura_desu/.coding/C/Untitled/src/headers/window.h \
+ /home/jura_desu/.coding/C/Untitled/src/headers/window.h \
+ /home/jura_desu/.coding/C/Untitled/src/headers/buttons.h

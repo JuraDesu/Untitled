@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/hratky_s_certem.dir/src/buttons.c.o CMakeFiles/hratky_s_certem.dir/src/init.c.o CMakeFiles/hratky_s_certem.dir/src/main.c.o CMakeFiles/hratky_s_certem.dir/src/window.c.o -o /home/jura_desu/vychytavky_jury_hrusky/bin/hratky_s_certem  -lcurses -lform 
+/usr/bin/cc CMakeFiles/hratky_s_certem.dir/src/buttons.c.o CMakeFiles/hratky_s_certem.dir/src/init.c.o CMakeFiles/hratky_s_certem.dir/src/main.c.o CMakeFiles/hratky_s_certem.dir/src/window.c.o -o /home/jura_desu/.coding/C/Untitled/bin/hratky_s_certem  -lcurses -lform
